@@ -1,2 +1,4 @@
-hallo world
+hello world
 nama saya hizkia
+saya berumur 19 tahun
+dan saya tinggal di manado
