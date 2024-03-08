@@ -8,7 +8,7 @@ Daftar tugas/branch
 7. Tugas-finalProject
 
 Daftar perintah GIT 
-(yang saya tau saat ini)
+(yang saya tau saat ini, daftar ini dapa bertambah seiring waktuu)
 -git init
 -git add (nama file)
 -git add .  <-(menambahkan semua file tanpa perlu mengetik satu satu nama file)
