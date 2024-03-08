@@ -9,8 +9,8 @@ Daftar tugas/branch
 
 Daftar perintah GIT 
 (yang saya tau saat ini, daftar ini dapat bertambah seiring waktuu)
--git init
--git add (nama file)
+-git init <- merubah folder menjadi repository(cuma beda nama nda lebih, sama dng nn pe sayang pa kt nda lebih dari teman;) )
+-git add (nama file) <- menambahkan file ke staging area
 -git add .  <-(menambahkan semua file tanpa perlu mengetik satu satu nama file)
 -git commit -am "(isi pesan)" <-(melakukan commit dan add secara sekaligus)
 -git commit -m "(pesan)"
